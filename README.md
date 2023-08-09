@@ -7,4 +7,4 @@ Prediction-of-House-Grade-Classification using python ( Jupyter Notebook)
 # The Grade (condition of the house that ranges from A (Best) - E (Worst)) can also be used by existing owners to list their properties for sale. Grading helps them in arriving at a price of the house.
 
 # Business Objective
-# Build a predictive model to determine the Grade of house (The grades are A,B,C,D, and E)
+# Build a predictive model to determine the Grade of house  (The grades are A,B,C,D, and E)
